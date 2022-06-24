@@ -1,7 +1,4 @@
 ### INSTALAR
-
-To install the dependencies in your project's directory run:
-
 ```
 npm install
 ```
