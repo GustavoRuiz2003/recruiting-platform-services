@@ -1,0 +1,308 @@
+.box-complement {
+  width: 40%;
+  height: 100%;
+  /* border: solid 3px greenyellow; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* START TOP */
+.box-top-complements {
+  width: 92%;
+  height: 15%;
+  /* background-color: red; */
+  border-bottom: solid 1px rgb(175, 173, 173);
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 8%;
+}
+
+/* LEFT BOX TOP */
+.box-left-top-complements {
+  width: 20%;
+  height: 100%;
+  /* background-color: green; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo-image-complements {
+  width: 90%;
+  height: 90%;
+  /* background-color: red; */
+  display: flex;
+  align-items: flex-start;
+  justify-content: start;
+}
+
+/* RIGHT BOX TOP */
+.box-right-top-complements {
+  width: 80%;
+  height: 100%;
+  /* background-color: purple; */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.box-title-complements {
+  width: 100%;
+  height: 50%;
+  /* background-color: aqua; */
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+.title-complements {
+  font-size: 40px;
+  color: #503a23;
+  font-weight: bold;
+  letter-spacing: 0.3rem;
+}
+.box-subtitle-complements {
+  width: 100%;
+  height: 30%;
+  /* background-color: red; */
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+.subtitle-complements {
+  font-size: 15px;
+  color: gray;
+}
+/* START MESSAGE BOX */
+.box-message-complements{
+  width: 92%;
+  height: 7%;
+  /* background-color: yellow; */
+  display: flex;
+  justify-content: center;
+  color: #503a23;
+  font-weight: bold;
+}
+
+/* START MIDDLE */
+.box-middle-complements {
+  width: 92%;
+  height: 70%;
+  /* background-color: yellow; */
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+}
+
+.box-informations-complements {
+  width: 100%;
+  height: 45%;
+  /* background-color: red; */
+  display: none;
+  flex-direction: row;
+  margin-bottom: 5%;
+  border-bottom: solid 1px rgb(175, 173, 173);
+}
+.box-middle-left-complements {
+  width: 30%;
+  height: 100%;
+  /* background-color: blue; */
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+.img-product-complements {
+  width: 70%;
+  height: 35%;
+}
+.box-middle-right-complements {
+  width: 70%;
+  height: 100%;
+  /* background-color: green; */
+}
+
+.box-information-products-complements {
+  width: 100%;
+  height: 30%;
+}
+.box-name-products-complements {
+  width: 100%;
+  height: 50%;
+  /* background-color: greenyellow; */
+  font-weight: bold;
+  color: #503a23;
+  display: flex;
+  align-items: flex-end;
+}
+.box-time-products-complements {
+  width: 100%;
+  height: 50%;
+  /* background-color: blue; */
+  display: flex;
+  flex-direction: row;
+  color: #503a23;
+  font-size: 15px;
+  justify-content: start;
+  align-items: center;
+}
+.box-img-clock-products-complements {
+  width: 9%;
+  height: 100%;
+  /* background-color: red; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img-clock-products-complements {
+  width: 60%;
+  height: 60%;
+  color: #503a23;
+}
+.box-information-complements-complements {
+  width: 100%;
+  height: 65%;
+  display: flex;
+  flex-direction: column;
+}
+.box-complement1-complements {
+  width: 100%;
+  height: 32%;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 1%;
+  margin-top: 1%;
+}
+.box-complement2-complements {
+  width: 100%;
+  height: 32%;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 1%;
+}
+.box-complement3-complements {
+  width: 100%;
+  height: 32%;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 1%;
+}
+
+.box-img-complement-complements {
+  width: 20%;
+  height: 100%;
+  /* background-color: blue; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box-nameandtime-complement-complements {
+  width: 64%;
+  height: 100%;
+  background-color: brown;
+}
+.box-name-complements {
+  width: 100%;
+  height: 50%;
+  /* background-color: greenyellow; */
+  font-weight: bold;
+  color: #503a23;
+}
+.box-time-complements {
+  width: 100%;
+  height: 50%;
+  /* background-color: blue; */
+  display: flex;
+  flex-direction: row;
+  color: #503a23;
+  font-size: 15px;
+}
+.box-img-clock-complements {
+  width: 9%;
+  height: 100%;
+  /* background-color: red; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img-clock-complements {
+  width: 80%;
+  height: 80%;
+  color: #503a23;
+}
+
+.box-checkbox-complements {
+  width: 16%;
+  height: 100%;
+  /* background-color: grey; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.img-complement-complements {
+  width: 90%;
+  height: 90%;
+}
+.checkbox-complements{
+  width: 0%;
+  height: 0%;
+
+}
+/* START END */
+.box-end-complements {
+  width: 92%;
+  height: 8%;
+  display: flex;
+  flex-direction: row;
+}
+.button-finish-complements {
+  background-color: #3dc890;
+  width: 50%;
+  height: 100%;
+  color: #fff;
+  font-size: 20px;
+  border: 0;
+  text-decoration: none !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button-comeback-complements {
+  background-color: #d15f41;
+  width: 50%;
+  height: 100%;
+  color: #fff;
+  font-size: 20px;
+  border: 0;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+@media screen and (max-width: 820px) {
+  .box-complement {
+    width: 100%;
+  }
+  * {
+    font-size: 18px;
+  }
+  .title-complements {
+    font-size: 25px;
+  }
+  .box-name-complements {
+    font-size: 15px;
+  }
+  .box-img-clock-complements {
+    width: 15%;
+  } 
+   .box-img-clock-products-complements {
+    width: 15%;
+  }
+  .box-message-complements{
+    font-size: 15px;
+  }
+}
+.checkbox-complements { visibility: hidden;}
+.label-checkbox-complements {display: block; width:36px; height:32px; left:50%; top:50%;
+        background:url('../assets/check-empty.svg') no-repeat center top; }
+.checkbox-complements:checked + .label-checkbox-complements { background-image:url('../assets/check-ok.svg');}
